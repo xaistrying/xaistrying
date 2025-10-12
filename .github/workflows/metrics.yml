@@ -95,5 +95,6 @@ jobs:
           base: ""
           template: classic
           plugin_habits: yes
-          plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: yes       # Trim unused hours on daily chart
+          plugin_habits_facts: no
+          plugin_habits_charts: no      # Display charts section
+          plugin_habits_trim: no        # Trim unused hours on daily chart
