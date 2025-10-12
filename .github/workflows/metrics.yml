@@ -79,28 +79,6 @@ jobs:
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
-  activities:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: activities.svg
-          token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          config_timezone: ${{ secrets.USER_TIMEZONE }} 
-          debug: yes
-
-          # Options
-          user: xaistrying
-          base: ""
-          template: classic
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          plugin_habits_facts: no
-
   achievements:
     runs-on: ubuntu-latest
     steps:
