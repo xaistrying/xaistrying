@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   <img align="center" width="49%" src="./most_used_langs.svg" />
 </a>
 <a href="https://github.com/xaistrying">
-  <img align="center" width="49%" src="./activities.svg" />
+  <img align="center" width="49%" src="./leetcode_stats.svg" />
 </a>
 <a href="https://github.com/xaistrying">
-  <img align="center" width="49%" src="./leetcode_stats.svg" />
+  <img align="center" width="49%" src="./achievements.svg" />
 </a>
