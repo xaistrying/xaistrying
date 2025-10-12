@@ -94,7 +94,5 @@ jobs:
           base: ""
           template: classic
           plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 90        # Keep only events from last 90 days
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
