@@ -21,23 +21,23 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.8793604832734" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="207.8793604832734" y="0" width="133.1097510061073" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="340.98911148938066" y="0" width="65.59931516981698" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="406.58842665919764" y="0" width="53.41157334080229" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="191.6257709514754" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="191.6257709514754" y="0" width="170.73281452075236" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="362.35858547222773" y="0" width="53.87718955618934" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="416.2357750284171" y="0" width="43.764224971582905" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jupyter Notebook
+                                Python
                             </div>
                             <small>
-                                <div>2.06 MB</div>
-                                <div>45.19%</div>
+                                <div>2.31 MB</div>
+                                <div>41.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,7 +49,7 @@
                             </div>
                             <small>
                                 <div>650 kB</div>
-                                <div>14.26%</div>
+                                <div>11.71%</div>
                             </small>
                         </div>
                     </section>
@@ -57,13 +57,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>1.32 MB</div>
-                                <div>28.94%</div>
+                                <div>2.06 MB</div>
+                                <div>37.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -74,8 +74,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>529 kB</div>
-                                <div>11.61%</div>
+                                <div>528 kB</div>
+                                <div>9.51%</div>
                             </small>
                         </div>
                     </section>
